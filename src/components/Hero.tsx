@@ -9,7 +9,7 @@ const heroFadeUp = keyframes`
 const lines = [
   "Projektowanie i aranżacja wnętrz",
   "Meble na wymiar",
-  "Elementy CNC",
+  "Frezowanie CNC",
   "+30 lat doświadczenia",
 ]
 
