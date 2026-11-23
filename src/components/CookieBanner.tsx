@@ -58,13 +58,12 @@ export default function CookieBanner() {
         >
           <Box maxW="760px">
             <Box className="czcionka-2" mb="1">
-              Pliki cookies i prywatność
+              Pliki cookies
             </Box>
             <Box className="tresc-mala" opacity={0.85} lineHeight="1.6">
-              Strona korzysta z niezbędnych plików cookies oraz pamięci przeglądarki do
-              prawidłowego działania serwisu, a po wyrażeniu zgody — z elementów zewnętrznych
-              (np. mapy Google i przyszłych narzędzi analitycznych). Wybór możesz zmienić w
-              dowolnym momencie, czyszcząc dane witryny w przeglądarce.
+              Ta strona korzysta z plików cookies, aby zapewnić prawidłowe działanie serwisu,
+              poprawić komfort przeglądania oraz dopasować treści. Korzystając ze strony,
+              wyrażasz zgodę na ich użycie zgodnie z ustawieniami przeglądarki.
             </Box>
           </Box>
 
